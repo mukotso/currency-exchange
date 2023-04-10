@@ -22,18 +22,18 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Ssiva\\CurrencyExchange\\": "src/"
+            "mukotso\\CurrencyExchange\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Ssiva\\CurrencyExchange\\Tests\\": "tests/"
+            "mukotso\\CurrencyExchange\\Tests\\": "tests/"
         }
     },
     "authors": [
         {
-            "name": "Simon Siva",
-            "email": "simonsiva13@gmail.com"
+            "name": "kelvin mukotso",
+            "email": "kelvinmukotso@gmail.com"
         }
     ],
     "minimum-stability": "stable"
