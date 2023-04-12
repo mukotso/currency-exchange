@@ -1,10 +1,10 @@
-##Currency Exchange Service
+## Currency Exchange Package
 This package provides access to get the exchange amount for any currency
 
 ## Usage
-The package is configured to be used within the main Petshop project. Check out the the project https://github.com/mukotso/petshop for steps on adding this package as a submodule
+The package is configured to be used within the main  project as a local package. Check for steps on adding this package as a submodule
 
-Testing
+## Testing
 To run tests, simply run
 
 composer test
